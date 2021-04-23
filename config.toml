@@ -139,34 +139,3 @@ url = "about/"
 #name = "Contact me"
 #weight = 5
 #url = "contact/"
-
-[languages.pl]
-languageName = ":poland:"
-title = "dlenda"
-
-[languages.pl.params]
-author = "Dominik Lenda"
-info = "psycholog, programista, analityk danych"
-description = "Osobista strona Dominika Lendy"
-keywords = "blog,psychologia,programowanie"
-footerContent = ""
-
-#[[languages.pl.menu.main]]
-#name = "O mnie"
-#weight = 1
-#url = "about/"
-
-#[[languages.pl.menu.main]]
-#name = "Blog"
-#weight = 2
-#url = "posts/"
-#
-#[[languages.pl.menu.main]]
-#name = "Projekty"
-#weight = 3
-#url = "projects/"
-#
-#[[languages.pl.menu.main]]
-#name = "Kontakt"
-#weight = 5
-#url = "contact/"

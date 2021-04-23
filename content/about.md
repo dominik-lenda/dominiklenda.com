@@ -9,4 +9,4 @@ Hello, I am a psychologist with a background in experimental psychology. I’ve 
 
 Psychology suffers from [theoretical amnesia](http://osc.centerforopenscience.org/2013/11/20/theoretical-amnesia/), i.e., it lacks theoretical, preferably formalized appeal. That's why currently I'm interested in the role of theory in psychology and its related fields such as cognitive science. In the future, I'd like to work on formalization in psychology, regardless of its form: computational, logical, axiomatic. 
 
-Besides that, I enjoy skateboarding, programming and viming. Recently, I've been exploring the beauty of functional programming languages such as Elm or Haskell. In the meantime, I dig into the nuts and bolts of web development, especially frontend development. 
+Besides that, I enjoy skateboarding, programming, and [viming](https://www.vim.org/about.php). Recently, I've been exploring the beauty of functional programming languages such as Elm or Haskell. In the meantime, I dig into the nuts and bolts of web development, especially frontend development. 
