@@ -14,8 +14,8 @@ enableEmoji = true
 [params]
 author = "Dominik Lenda"
 description = "Dominik Lenda's personal website"
-keywords = "blog,psychology,developer,personal"
-info = "psychologist, programmer, data analyst"
+keywords = "blog,psychology,developer,personal,cloud"
+info = "psychological researcher and cloud engineer"
 avatarURL = ""
 #gravatar = "dominik.lenda@protonmail.com"
 footerContent = ""
@@ -99,17 +99,18 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-github"
-weight = 1
-url = "https://github.com/dominik-lenda"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
+weight = 1 
+url = "https://twitter.com/dlenda_cloud"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github"
 weight = 2 
-url = "https://twitter.com/dominik_lenda"
+url = "https://github.com/dominik-lenda"
 
 [[params.social]]
 name = "LinkedIn"
@@ -125,11 +126,11 @@ name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.en.menu.main]]
-#name = "Blog"
-#weight = 2
-#url = "posts/"
-#
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "https://blog.dominiklenda.com/"
+
 #[[languages.en.menu.main]]
 #name = "Projects"
 #weight = 3

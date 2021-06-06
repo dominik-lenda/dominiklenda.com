@@ -7,9 +7,9 @@ draft: false
 ## About me
 ![oddly cut photo](/img/face.png)
 
-Hello, I am a psychologist with a background in experimental psychology. I’ve got MA in Psychology from SWPS University in Wroclaw, Poland. However, since the beginning of my studies, my main occupation was programming and data analysis in R. Lately, I am the principal investigator in the grant project on experience-based decision making.
+Hello, I am a psychological researcher and a cloud engineer. I’ve got MA in Psychology from SWPS University in Wroclaw, Poland. Since the beginning of my studies, my main occupation has been programming and data analysis in R. Lately, I am the principal investigator in the grant project on experience-based decision making. 
 
-Psychology suffers from [theoretical amnesia](http://osc.centerforopenscience.org/2013/11/20/theoretical-amnesia/), i.e., it lacks theoretical, preferably formalized appeal. That's why currently I'm interested in the role of theory in psychology and its related fields such as cognitive science. In the future, I'd like to work on formalization in psychology, regardless of its form: computational, logical, axiomatic. 
+However, the lack of systematic approaches in the development of psychological theories and other problems in psychological science, such as shaky foundations of many statistical conclusions, forced me to rethink my profession. Therefore, I'm changing my job to a cloud engineer to apply my passion for programming and solve real-world problems. 
 
-Besides that, I enjoy skateboarding, programming, and [viming](https://www.vim.org/about.php). Recently, I've been exploring the beauty of functional programming languages such as Elm or Haskell. In the meantime, I dig into the nuts and bolts of web development, especially frontend development. 
+Besides that, I enjoy skateboarding, thinking about problems in the philosophy of science, doing nothing. Currently, I work on my neurotic psychopathology being in the process of psychoanalytic therapy. 
 
