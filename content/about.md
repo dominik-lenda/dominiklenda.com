@@ -11,5 +11,3 @@ Hello, I am a psychological researcher and a cloud engineer. I’ve got MA in Ps
 
 However, the lack of systematic approaches in the development of psychological theories and other problems in psychological science, such as shaky foundations of many statistical conclusions, forced me to rethink my profession. Therefore, I'm changing my job to a cloud engineer to apply my passion for programming and solve real-world problems. 
 
-Besides that, I enjoy skateboarding, thinking about problems in the philosophy of science, doing nothing. Currently, I work on my neurotic psychopathology being in the process of psychoanalytic therapy. 
-
